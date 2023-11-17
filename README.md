@@ -31,14 +31,14 @@ To answer these questions, I'll be working with a comprehensive dataset that con
 
 1. Aircraft with turbofan and turbo prop engines tend to be associated with higher safety scores, suggesting they are generally safer.
 ![engine_type.jpg](./images/engine_type.jpg)
-2. Aircraft with 4 engines have higher average safety scores compared to those with 1 or 2 engines.
+3. Aircraft with 4 engines have higher average safety scores compared to those with 1 or 2 engines.
 ![number_of_engines.jpg](./images/number_of_engines.jpg)
-3. While North America yeilds the highest destruction percentage, it's important to note that this predominance may be skewed due to North America being overrepresented in the dataset. Additionally, the data indicates a markedly higher risk associated with flights over South America and International Waters.
+4. While North America yeilds the highest destruction percentage, it's important to note that this predominance may be skewed due to North America being overrepresented in the dataset. Additionally, the data indicates a markedly higher risk associated with flights over South America and International Waters.
 ![destruction_per_continent.jpg](./images/destruction_per_continent.jpg)
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./air-safety-analytics.ipynb), review this [presentation](./Air_Safety_Analytics_Presentation.pdf) or this [interactive dashboard](https://public.tableau.com/app/profile/emma.mackoy3448/viz/Aircraft_Safety_Analysis_Dashboard/Dashboard1?publish=yes).
+See the full analysis in the [Jupyter Notebook](./air-safety-analytics.ipynb), review this [presentation](./Air_Safety_Analysis_Presentation.pdf) or this [interactive dashboard](https://public.tableau.com/app/profile/emma.mackoy3448/viz/Aircraft_Safety_Analysis_Dashboard/Dashboard1?publish=yes).
 
 For additional info, contact Emma Mackoy at [emmamackoy@gmail.com](mailto:emmamackoy@gmail.com)
 
@@ -49,7 +49,7 @@ For additional info, contact Emma Mackoy at [emmamackoy@gmail.com](mailto:emmama
 ├── data
 ├── images
 ├── .gitignore
-├── README.md
 ├── Aircraft_Safety_Analysis_Presentation.pdf
+├── README.md
 └── aircraft_safety_analysis.ipynb
 ```
