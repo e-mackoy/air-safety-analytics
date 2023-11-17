@@ -38,7 +38,7 @@ To answer these questions, I'll be working with a comprehensive dataset that con
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./air-safety-analytics.ipynb), review this [presentation](.//Aircraft_Safety_Analysis_Presentation.pdf) or this [interactive dashboard](https://public.tableau.com/app/profile/emma.mackoy3448/viz/Aircraft_Safety_Analysis_Dashboard/Dashboard1?publish=yes).
+See the full analysis in the [Jupyter Notebook](./aircraft_safety_analysis.ipynb), review this [presentation](.//Aircraft_Safety_Analysis_Presentation.pdf) or this [interactive dashboard](https://public.tableau.com/app/profile/emma.mackoy3448/viz/Aircraft_Safety_Analysis_Dashboard/Dashboard1?publish=yes).
 
 For additional info, contact Emma Mackoy at [emmamackoy@gmail.com](mailto:emmamackoy@gmail.com)
 
