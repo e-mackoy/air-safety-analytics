@@ -34,7 +34,7 @@ To answer these questions, I'll be working with a comprehensive dataset that con
 3. Aircraft with 4 engines have higher average safety scores compared to those with 1 or 2 engines.
 ![number_of_engines.jpg](./images/number_of_engines.jpg)
 4. While North America yeilds the highest destruction percentage, it's important to note that this predominance may be skewed due to North America being overrepresented in the dataset. Additionally, the data indicates a markedly higher risk associated with flights over South America and International Waters.
-![destruction_per_continent.jpg](./images/destruction_per_continent.jpg)
+![destuction_per_continent.jpg](./images/destuction_per_continent.jpg)
 
 ## For More Information
 
